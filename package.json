@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "esbuild": "^0.11.1",
+    "esbuild-plugin-sass": "^1.0.1",
     "nodemon": "^2.0.7"
   }
 }
